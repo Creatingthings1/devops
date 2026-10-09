@@ -3,6 +3,15 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -63,16 +72,7 @@ build/
 hs_err_pid*
 replay_pid*
 
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-.mvn/wrapper/maven-wrapper.jar
+
 
 .idea/
 
